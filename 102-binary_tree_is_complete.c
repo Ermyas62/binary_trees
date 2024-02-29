@@ -72,7 +72,7 @@ void add_to_queue(queue_t **head, binary_tree_t *child)
  * @full: 1 when node is full, 0 otherwise
  *
  * Return: 1 if the tree is complete,
- * 	 Otherwise 0.
+ * 	Otherwise 0.
  */
 int is_complete(queue_t **head, int flag, int full)
 {
