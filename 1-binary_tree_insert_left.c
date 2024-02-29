@@ -4,7 +4,7 @@
 
 /**
  * binary_tree_insert_left - inserts node as the lefy child
- * @parent - binary_tree_t node
+ * @parent:  binary_tree_t node
  * @value: int variable
  *
  * Return: new node
