@@ -4,7 +4,7 @@
 
 /**
  * binary_tree_insert_right - inserts node as the right child
- * @parent - binary_tree_t node
+ * @parent: binary_tree_t node
  * @value: int variable
  *
  * Return: new node
@@ -19,7 +19,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	new = binary_tree_node(parent, value);
 	if (new == NULL)
 		return (NULL);
-	
+
 	if (parent->right == NULL)
 	{
 		parent->right = new;
