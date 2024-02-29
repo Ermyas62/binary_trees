@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_rotate_right - finds the lowest common ancestor of two nodesin the tree
+ * binary_tree_rotate_right - finds the lowest common ancestor of 
+ * two nodesin the tree
  * @tree: a pointer
  *
  * Return: NULL If no common ancestor was found
