@@ -7,7 +7,8 @@ bst_t *inorder_successor(bst_t *node);
 bst_t *bst_remove(bst_t *root, int value);
 
 /**
- * bst_node_search - Searches for a node or a value to be removed from binary search tree.
+ * bst_node_search - Searches for a node or a value to be removed
+ * from binary search tree.
  * @root: A pointer to the root node
  * @tree:  A pointer to the current node
  * @value: The value to be searched from the BST
