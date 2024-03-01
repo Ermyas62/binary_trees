@@ -24,7 +24,8 @@ size_t tree_size(const binary_tree_t *tree)
 }
 
 /**
- * heap_to_sorted_array - converts a Binary Max Heap to a sorted array of integers
+ * heap_to_sorted_array - converts a Binary Max Heap to a
+ * sorted array of integers
  * @heap: pointer to the root node
  * @size: the size of the array
  *
